@@ -1,0 +1,1 @@
+Wiidevkit includes development apps, development channels, and more! To use development channels on your wii you need a wii,sd card (with mabye about 1GB,2GB,3GB,or 4GB.),and Some blank DVDs.
